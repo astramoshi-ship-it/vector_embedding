@@ -1,0 +1,2 @@
+
+Online payment methods allow customers to pay for orders electronically. Common payment options include credit cards, debit cards, UPI, net banking, and digital wallets.

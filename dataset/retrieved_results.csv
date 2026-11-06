@@ -1,0 +1,151 @@
+query_id,query,document_id,document_title,similarity_rank,cosine_distance,keyword_rank,retrieved_document
+Q1,How can I shop online?,doc1,document1,1,0.2776,2,"
+Online shopping allows customers to purchase products through websites and mobile applications. Customers can browse different products, compare prices, read product details, and place orders from home.
+"
+Q1,How can I shop online?,doc5,document4,2,0.4421,Not in Top 5,"
+Product pricing is an important factor in online shopping. E-commerce stores may offer discounts, coupons, seasonal offers, and special deals. Customers often compare prices before buying.
+"
+Q1,How can I shop online?,doc7,document6,3,0.4854,Not in Top 5,"
+Online payment methods allow customers to pay for orders electronically. Common payment options include credit cards, debit cards, UPI, net banking, and digital wallets.
+"
+Q1,How can I shop online?,doc3,document2,4,0.591,4,"
+Product categories help organize items in an online store. Common categories include electronics, clothing, books, home appliances, and groceries. A clear category structure helps customers find products quickly.
+"
+Q1,How can I shop online?,doc2,document10,5,0.6018,3,"
+Customer support helps shoppers solve problems related to orders, payments, delivery, returns, and product information. Support may be provided through email, phone, or live chat.
+"
+Q2,Where can I find electronic products?,doc3,document2,1,0.5728,2,"
+Product categories help organize items in an online store. Common categories include electronics, clothing, books, home appliances, and groceries. A clear category structure helps customers find products quickly.
+"
+Q2,Where can I find electronic products?,doc5,document4,2,0.6811,Not in Top 5,"
+Product pricing is an important factor in online shopping. E-commerce stores may offer discounts, coupons, seasonal offers, and special deals. Customers often compare prices before buying.
+"
+Q2,Where can I find electronic products?,doc1,document1,3,0.7055,1,"
+Online shopping allows customers to purchase products through websites and mobile applications. Customers can browse different products, compare prices, read product details, and place orders from home.
+"
+Q2,Where can I find electronic products?,doc7,document6,4,0.7782,Not in Top 5,"
+Online payment methods allow customers to pay for orders electronically. Common payment options include credit cards, debit cards, UPI, net banking, and digital wallets.
+"
+Q2,Where can I find electronic products?,doc9,document8,5,0.7831,Not in Top 5,"
+Delivery services transport purchased products from the seller or warehouse to the customer. Delivery options may include standard shipping, express delivery, and same-day delivery.
+"
+Q3,What is product information?,doc4,document3,1,0.3013,1,"
+Product information includes the product name, description, brand, price, features, and availability. Accurate product details help customers understand what they are buying.
+"
+Q3,What is product information?,doc3,document2,2,0.6083,5,"
+Product categories help organize items in an online store. Common categories include electronics, clothing, books, home appliances, and groceries. A clear category structure helps customers find products quickly.
+"
+Q3,What is product information?,doc1,document1,3,0.7426,3,"
+Online shopping allows customers to purchase products through websites and mobile applications. Customers can browse different products, compare prices, read product details, and place orders from home.
+"
+Q3,What is product information?,doc6,document5,4,0.757,Not in Top 5,"
+Customer reviews contain feedback and ratings shared by people who purchased a product. Reviews help other shoppers understand product quality, performance, and customer satisfaction.
+"
+Q3,What is product information?,doc5,document4,5,0.7685,2,"
+Product pricing is an important factor in online shopping. E-commerce stores may offer discounts, coupons, seasonal offers, and special deals. Customers often compare prices before buying.
+"
+Q4,How can I get discounts?,doc5,document4,1,0.5663,Not in Top 5,"
+Product pricing is an important factor in online shopping. E-commerce stores may offer discounts, coupons, seasonal offers, and special deals. Customers often compare prices before buying.
+"
+Q4,How can I get discounts?,doc1,document1,2,0.719,2,"
+Online shopping allows customers to purchase products through websites and mobile applications. Customers can browse different products, compare prices, read product details, and place orders from home.
+"
+Q4,How can I get discounts?,doc10,document9,3,0.7756,1,"
+A return and refund policy explains when customers can return products and how refunds are processed. Products may be eligible for return if they are damaged or defective.
+"
+Q4,How can I get discounts?,doc9,document8,4,0.778,Not in Top 5,"
+Delivery services transport purchased products from the seller or warehouse to the customer. Delivery options may include standard shipping, express delivery, and same-day delivery.
+"
+Q4,How can I get discounts?,doc2,document10,5,0.7791,3,"
+Customer support helps shoppers solve problems related to orders, payments, delivery, returns, and product information. Support may be provided through email, phone, or live chat.
+"
+Q5,Why are customer reviews important?,doc6,document5,1,0.2362,1,"
+Customer reviews contain feedback and ratings shared by people who purchased a product. Reviews help other shoppers understand product quality, performance, and customer satisfaction.
+"
+Q5,Why are customer reviews important?,doc2,document10,2,0.6012,2,"
+Customer support helps shoppers solve problems related to orders, payments, delivery, returns, and product information. Support may be provided through email, phone, or live chat.
+"
+Q5,Why are customer reviews important?,doc5,document4,3,0.6467,Not in Top 5,"
+Product pricing is an important factor in online shopping. E-commerce stores may offer discounts, coupons, seasonal offers, and special deals. Customers often compare prices before buying.
+"
+Q5,Why are customer reviews important?,doc1,document1,4,0.7001,Not in Top 5,"
+Online shopping allows customers to purchase products through websites and mobile applications. Customers can browse different products, compare prices, read product details, and place orders from home.
+"
+Q5,Why are customer reviews important?,doc3,document2,5,0.7094,Not in Top 5,"
+Product categories help organize items in an online store. Common categories include electronics, clothing, books, home appliances, and groceries. A clear category structure helps customers find products quickly.
+"
+Q6,What are online payment methods?,doc7,document6,1,0.1183,2,"
+Online payment methods allow customers to pay for orders electronically. Common payment options include credit cards, debit cards, UPI, net banking, and digital wallets.
+"
+Q6,What are online payment methods?,doc1,document1,2,0.4489,3,"
+Online shopping allows customers to purchase products through websites and mobile applications. Customers can browse different products, compare prices, read product details, and place orders from home.
+"
+Q6,What are online payment methods?,doc5,document4,3,0.6436,5,"
+Product pricing is an important factor in online shopping. E-commerce stores may offer discounts, coupons, seasonal offers, and special deals. Customers often compare prices before buying.
+"
+Q6,What are online payment methods?,doc2,document10,4,0.6559,Not in Top 5,"
+Customer support helps shoppers solve problems related to orders, payments, delivery, returns, and product information. Support may be provided through email, phone, or live chat.
+"
+Q6,What are online payment methods?,doc9,document8,5,0.7239,Not in Top 5,"
+Delivery services transport purchased products from the seller or warehouse to the customer. Delivery options may include standard shipping, express delivery, and same-day delivery.
+"
+Q7,What happens after placing an order?,doc8,document7,1,0.3627,1,"
+Order processing begins after a customer places an order. The store confirms the order, checks product availability, prepares the package, and hands it over for delivery.
+"
+Q7,What happens after placing an order?,doc9,document8,2,0.6546,Not in Top 5,"
+Delivery services transport purchased products from the seller or warehouse to the customer. Delivery options may include standard shipping, express delivery, and same-day delivery.
+"
+Q7,What happens after placing an order?,doc2,document10,3,0.7546,Not in Top 5,"
+Customer support helps shoppers solve problems related to orders, payments, delivery, returns, and product information. Support may be provided through email, phone, or live chat.
+"
+Q7,What happens after placing an order?,doc7,document6,4,0.755,Not in Top 5,"
+Online payment methods allow customers to pay for orders electronically. Common payment options include credit cards, debit cards, UPI, net banking, and digital wallets.
+"
+Q7,What happens after placing an order?,doc10,document9,5,0.769,Not in Top 5,"
+A return and refund policy explains when customers can return products and how refunds are processed. Products may be eligible for return if they are damaged or defective.
+"
+Q8,How does product delivery work?,doc9,document8,1,0.3946,Not in Top 5,"
+Delivery services transport purchased products from the seller or warehouse to the customer. Delivery options may include standard shipping, express delivery, and same-day delivery.
+"
+Q8,How does product delivery work?,doc8,document7,2,0.4623,Not in Top 5,"
+Order processing begins after a customer places an order. The store confirms the order, checks product availability, prepares the package, and hands it over for delivery.
+"
+Q8,How does product delivery work?,doc3,document2,3,0.5867,3,"
+Product categories help organize items in an online store. Common categories include electronics, clothing, books, home appliances, and groceries. A clear category structure helps customers find products quickly.
+"
+Q8,How does product delivery work?,doc5,document4,4,0.6375,5,"
+Product pricing is an important factor in online shopping. E-commerce stores may offer discounts, coupons, seasonal offers, and special deals. Customers often compare prices before buying.
+"
+Q8,How does product delivery work?,doc1,document1,5,0.6377,1,"
+Online shopping allows customers to purchase products through websites and mobile applications. Customers can browse different products, compare prices, read product details, and place orders from home.
+"
+Q9,How can I return a damaged product?,doc10,document9,1,0.4866,1,"
+A return and refund policy explains when customers can return products and how refunds are processed. Products may be eligible for return if they are damaged or defective.
+"
+Q9,How can I return a damaged product?,doc2,document10,2,0.7004,Not in Top 5,"
+Customer support helps shoppers solve problems related to orders, payments, delivery, returns, and product information. Support may be provided through email, phone, or live chat.
+"
+Q9,How can I return a damaged product?,doc3,document2,3,0.8015,3,"
+Product categories help organize items in an online store. Common categories include electronics, clothing, books, home appliances, and groceries. A clear category structure helps customers find products quickly.
+"
+Q9,How can I return a damaged product?,doc9,document8,4,0.822,Not in Top 5,"
+Delivery services transport purchased products from the seller or warehouse to the customer. Delivery options may include standard shipping, express delivery, and same-day delivery.
+"
+Q9,How can I return a damaged product?,doc6,document5,5,0.8242,4,"
+Customer reviews contain feedback and ratings shared by people who purchased a product. Reviews help other shoppers understand product quality, performance, and customer satisfaction.
+"
+Q10,How can I contact customer support?,doc2,document10,1,0.4372,3,"
+Customer support helps shoppers solve problems related to orders, payments, delivery, returns, and product information. Support may be provided through email, phone, or live chat.
+"
+Q10,How can I contact customer support?,doc10,document9,2,0.7415,1,"
+A return and refund policy explains when customers can return products and how refunds are processed. Products may be eligible for return if they are damaged or defective.
+"
+Q10,How can I contact customer support?,doc6,document5,3,0.7936,4,"
+Customer reviews contain feedback and ratings shared by people who purchased a product. Reviews help other shoppers understand product quality, performance, and customer satisfaction.
+"
+Q10,How can I contact customer support?,doc7,document6,4,0.7943,Not in Top 5,"
+Online payment methods allow customers to pay for orders electronically. Common payment options include credit cards, debit cards, UPI, net banking, and digital wallets.
+"
+Q10,How can I contact customer support?,doc8,document7,5,0.8375,5,"
+Order processing begins after a customer places an order. The store confirms the order, checks product availability, prepares the package, and hands it over for delivery.
+"
